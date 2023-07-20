@@ -90,6 +90,49 @@
 
 ![access server](./images/access-server.jpg)
 
+*Creating routes*
+
+`mkdir routes`
+
+`cd routes`
+
+*create a file api.js*
+
+`touch api.js`
+
+*Open the file with the command below*
+
+`vim api.js`
+
+
+## Step 3 - Models
+
+*Install Mongoose*
+
+`npm install mongoose`
+
+![install mongoose](./images/mongoose.jpg)
+
+*Create a new folder models*
+
+`mkdir model`
+
+`cd model`
+
+`mkdir model && cd model && touch todo.js`
+
+`vim todo.js`
+
+
+
+
+
+
+
+
+
+
+
 
 
 

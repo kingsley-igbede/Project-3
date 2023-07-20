@@ -30,6 +30,34 @@
 
 ![verify nodejs](./images/verify-nodejs.jpg)
 
+*Application Code Setup - Create a new directory for your To-Do project:*
+
+`mkdir Todo`
+
+`ls`
+
+`ls -lih`
+
+`cd Todo`
+
+![Todo Directory](./images/todo-directory.jpg)
+
+
+*Initialize Project*
+
+`npm init`
+
+`ls`
+
+![project initialize](./images/initialize-project.jpg)
+
+
+
+
+
+
+
+
 
 
 

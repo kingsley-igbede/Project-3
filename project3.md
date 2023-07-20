@@ -52,6 +52,51 @@
 ![project initialize](./images/initialize-project.jpg)
 
 
+### Step 2 - Install Express JS
+
+*Install it using npm*
+
+`npm install express`
+
+![install express](./images/install-express.jpg)
+
+*create file*
+
+`touch index.js`
+
+`ls`
+
+![create file](./images/create-file.jpg)
+
+*Install dotenv*
+
+`npm install dotenv`
+
+![install dotenv](./images/dotenv.jpg)
+
+*Open the index.js file with the command below*
+
+`vim index.js`
+
+*Start server*
+
+`node index.js`
+
+![server update](./images/server-running.jpg)
+
+*Access server on browser on port 5000*
+
+`http://<PublicIP-or-PublicDNS>:5000`
+
+![access server](./images/access-server.jpg)
+
+
+
+
+
+
+
+
 
 
 

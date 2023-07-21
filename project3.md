@@ -105,7 +105,7 @@
 `vim api.js`
 
 
-## Step 3 - Models
+### Step 3 - Models
 
 *Install Mongoose*
 
@@ -122,6 +122,39 @@
 `mkdir model && cd model && touch todo.js`
 
 `vim todo.js`
+
+### Step 4 - MongoDB Database
+
+*Create a file in your Todo directory and name it .env*
+
+`touch .env`
+
+`vi .env`
+
+*Add the connection string to access the database*
+
+`DB = 'mongodb+srv://<username>:<password>@<network-address>/<dbname>?retryWrites=true&w=majority'`
+
+*Update the index.js to reflect the use of .env*
+
+`vim index.js`
+
+*Start your server using the command*
+
+`node index.js`
+
+![database conected](./images/database-connected.jpg)
+
+
+
+
+
+
+
+
+
+
+
 
 
 

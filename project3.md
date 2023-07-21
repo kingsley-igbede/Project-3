@@ -145,6 +145,17 @@
 
 ![database conected](./images/database-connected.jpg)
 
+*Testing Backend Code without Frontend using RESTful API*
+
+
+*create a POST request on Postman to the API*
+
+`http://<PublicIP-or-PublicDNS>:5000/api/todos.`
+
+![postman](./images/postman.jpg)
+
+
+
 
 
 

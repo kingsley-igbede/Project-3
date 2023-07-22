@@ -154,6 +154,26 @@
 
 ![postman](./images/postman.jpg)
 
+![POST request](./images/postman-POST.jpg)
+
+*Perform a GET request on Postman to the API*
+
+`http://<PublicIP-or-PublicDNS>:5000/api/todos.`
+
+![GET request](./images/postman-GET.jpg)
+
+*Perform a DELETE request on Postman to the API*
+
+To delete a task – i sent the ID as a part of DELETE request
+
+![DELETE request](./images/postman-DELETE.jpg)
+
+![DB status](./images/DB-DELETE-status.jpg)
+
+
+
+
+
 
 
 

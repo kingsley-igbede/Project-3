@@ -171,7 +171,8 @@ To delete a task – i sent the ID as a part of DELETE request
 ![DB status](./images/DB-DELETE-status.jpg)
 
 
-### Step 2 - Frontend Creation
+
+## Step 2 - Frontend Creation
 
 *create a user interface for a Web client (browser) to interact with the application via API*
 

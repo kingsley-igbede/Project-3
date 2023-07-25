@@ -15,4 +15,12 @@ Backend Configuration
 
 Install ExpressJS
 
-1. 
+1. Install ExpressJS
+2. Start our server on port 5000
+3. Create Routes
+4. Create Models
+
+Create MongoDB Database - For this we will make use of mLab
+
+
+

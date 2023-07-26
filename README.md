@@ -29,6 +29,17 @@ Testing Backend Code with Frontend using RESTful API - Postman
 
 Frontend Configuration
 
+Here a user interface for a Web client (browser) to interact with the application via API is created.
+
+1. Run a React App - Before testing the react app, install necessary dependencies 
+
+2. Configure Proxy in package.json
+
+3. Creat React Components
+
+
+
+
 
 
 

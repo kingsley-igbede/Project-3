@@ -20,7 +20,18 @@ Install ExpressJS
 3. Create Routes
 4. Create Models
 
-Create MongoDB Database - For this we will make use of mLab
+Created MongoDB Database - For this we will make use of mLab
+
+Testing Backend Code with Frontend using RESTful API - Postman
+
+
+### Step 2
+
+Frontend Configuration
+
+
+
+
 
 
 
